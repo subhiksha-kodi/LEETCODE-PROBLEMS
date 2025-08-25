@@ -16,11 +16,12 @@ I am following the [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z
 
 ## 🧠 Topics Covered So Far
 
-| Day | Topics                            | Status |
-|-----|-----------------------------------|--------|
-| 1   | Input/Output and Datatypes        | ✅ Done |
-| 2   | If-Else and Switch Case           | ✅ Done |
-| 3   | _To be updated_                   | ⏳ Upcoming |
+| Day | Topics                                        | Status        |
+|-----|-----------------------------------------------|---------------|
+| 1   | Input/Output and Datatypes                    | ✅ Done       |
+| 2   | If-Else and Switch Case                       | ✅ Done       |
+| 3   | Arrays, Strings and For loops                 | ✅ Done       |
+| 4   | While loop and Pattern Printing               | ⏳ Upcoming   |
 
 ---
 
