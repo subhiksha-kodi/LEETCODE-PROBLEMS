@@ -1,4 +1,5 @@
 #input/output and datatypes
+
 a=int(input('Enter a number: '))
 print(a,type(a))
 

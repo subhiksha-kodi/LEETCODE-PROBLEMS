@@ -1,6 +1,6 @@
 #if else statement
-
 #Entered character is vowel,consonant,special character
+
 chr=input('Enter a character: ')
 chr_lower=chr.lower()
 if chr_lower in 'aeiou':
@@ -11,8 +11,8 @@ else:
   print(chr,'is a special character')
 
 #switch case 
-
 #Simple calculator
+
 a=int(input('Enter a: '))
 b=int(input('Enter b: '))
 oper=input('Enter operations to be perform: ')

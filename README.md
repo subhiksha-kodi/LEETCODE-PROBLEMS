@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository contains my daily solutions to foundational and advanced DSA problems using Python.  
-I am following the [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/) and solving **2 questions per day from scratch** to strengthen my coding skills.
+I am following the [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) and solving **2 questions per day from scratch** to strengthen my coding skills.
 
 ---
 
@@ -18,10 +18,12 @@ I am following the [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z
 
 | Day | Topics                                        | Status        |
 |-----|-----------------------------------------------|---------------|
-| 1   | Input/Output and Datatypes                    | ✅ Done       |
-| 2   | If-Else and Switch Case                       | ✅ Done       |
-| 3   | Arrays, Strings and For loops                 | ✅ Done       |
-| 4   | While loop and Pattern Printing               | ⏳ Upcoming   |
+| 1   | Input, Output, Datatypes                      | ✅ Done       |
+| 2   | If-Else, Switch Case                          | ✅ Done       |
+| 3   | Arrays, Strings                               | ✅ Done       |
+| 4   | For Loop, While Loop                          | ✅ Done       |
+| 5   | Functions (Call by Reference, Call by Value)  | ✅ Done       |
+| 6   | [Upcoming Topic]                              | ⏳ Upcoming   |
 
 ---
 
@@ -37,8 +39,8 @@ Each day contains 2 questions with clear Python solutions.
 ---
 
 ## 📚 References
-- [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
-- [Take U Forward YouTube](https://www.youtube.com/c/takeUforward)
+- 📄 [Striver A2Z DSA Sheet (Official Link)](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- 📺 [Take U Forward YouTube Channel](https://www.youtube.com/c/takeUforward)
 
 ---
 
