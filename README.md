@@ -16,23 +16,6 @@ I am following the [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z
 
 ---
 
-## 🧠 Topics Covered So Far
-
-| Day | Topics                                       | Status     |
-| --- | -------------------------------------------- | ---------- |
-| 1   | Input, Output, Datatypes                     | ✅ Done    |
-| 2   | If-Else, Switch Case                         | ✅ Done    |
-| 3   | Arrays, Strings                              | ✅ Done    |
-| 4   | For Loop, While Loop                         | ✅ Done    |
-| 5   | Functions (Call by Reference, Call by Value) | ✅ Done    |
-| 6   | Patterns                                     | ✅ Done    |
-| 7   | Count Digits, Reverse a Number               | ✅ Done    |
-| 8   | Check Palindrome, GCD or HCF                 | ✅ Done    |
-| 9   | Armstrong Numbers                            | ✅ Done    |
-| 10  |                                              | ⏳ Upcoming |
-
----
-
 Each day contains 2 questions with clear Python solutions.
 
 ---
